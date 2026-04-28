@@ -1,0 +1,17 @@
+# Environment variables — contains API key, never share this
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Database file — auto-generated, no need to track
+*.db
+
+# Node
+node_modules/
+dist/
+
+# Export files — generated on demand
+*.csv
+*.json
