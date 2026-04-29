@@ -1,0 +1,12 @@
+[build]
+builder = "nixpacks"
+
+[deploy]
+startCommand = "uvicorn main:app --host 0.0.0.0 --port $PORT"
+restartPolicyType = "on_failure"
+
+[build.nixpacksPlan.phases.setup]
+nixPkgs = ["python311"]
+
+[environments.production]
+rootDirectory = "backend"
