@@ -60,14 +60,14 @@ A full-stack weather application that lets users:
 ## Project Structure
 weather-app/
 ├── backend/
-│   ├── main.py           # FastAPI server, all routes, database models
-│   ├── requirements.txt  # Python dependencies
-│   └── .env              # API key (not pushed to GitHub)
+│   ├── main.py
+│   ├── requirements.txt
+│   └── .env (not pushed - contains API key)
 ├── frontend/
 │   └── src/
-│       ├── App.jsx       # Main React component, all UI and logic
-│       └── main.jsx      # React entry point
-├── screenshots/          # App screenshots for documentation
+│       ├── App.jsx
+│       └── main.jsx
+├── screenshots/
 └── README.md
 
 ---
