@@ -58,17 +58,18 @@ A full-stack weather application that lets users:
 ---
 
 ## Project Structure
-weather-app/
-├── backend/
-│   ├── main.py
-│   ├── requirements.txt
-│   └── .env (not pushed - contains API key)
-├── frontend/
-│   └── src/
-│       ├── App.jsx
-│       └── main.jsx
-├── screenshots/
-└── README.md
+
+    weather-app/
+    ├── backend/
+    │   ├── main.py
+    │   ├── requirements.txt
+    │   └── .env (not pushed - contains API key)
+    ├── frontend/
+    │   └── src/
+    │       ├── App.jsx
+    │       └── main.jsx
+    ├── screenshots/
+    └── README.md
 
 ---
 
