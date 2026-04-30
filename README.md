@@ -19,16 +19,16 @@ Built by **Zona Zubair** as part of the PM Accelerator AI Bootcamp Technical Ass
 ## Screenshots
 
 ### Main Page
-![Main Page](screenshots/main%20page.png)
+<img src="screenshots/main%20page.png" width="700"/>
 
 ### Current Weather
-![Current Weather](screenshots/current%20weather.png)
+<img src="screenshots/current%20weather.png" width="700"/>
 
 ### Save Weather Query
-![Save Weather Query](screenshots/save%20weather%20query.png)
+<img src="screenshots/save%20weather%20query.png" width="700"/>
 
 ### Saved Records & Export Options
-![Saved Records](screenshots/saved%20record%20&%20export%20options.png)
+<img src="screenshots/saved%20record%20&%20export%20options.png" width="700"/>
 
 ---
 
