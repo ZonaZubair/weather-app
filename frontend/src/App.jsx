@@ -4,7 +4,7 @@ import {
   WiDaySunny, WiCloudy, WiRain, WiSnow, WiThunderstorm, WiFog,
 } from "react-icons/wi";
 
-const API = "http://127.0.0.1:8000";
+const API = "https://weather-app-production-6b19.up.railway.app";
 
 // Maps OpenWeatherMap condition codes to icons
 // We use weather id ranges as documented in OWM API docs
